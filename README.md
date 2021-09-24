@@ -32,16 +32,16 @@ Also, using the Opencv tool and camera, we designed two vehicles to autonomously
 
 <h3>Code</h3>
 
-#1 Calibration 
-#2 PoseEstimation
+#1 NewCalib 
+#2 NewPoseEst
 
 **First, you must prepare the chess board.**
 
-**Second, deflect a chessboard to the camera and execute #1 Calibration.** 
+**Second, deflect a chessboard to the camera and execute #1 NewCalib.** 
 
 You can get the calib.npz file from this code which contains information about camera.
 
-**Next, execute #2 PoseEstimation. And move the chessboard in front of camera.**
+**Next, execute #2 NewPoseEst. And move the chessboard in front of camera.**
 
 It will show you how much the chessboard has tilted and distance from camera.
 
