@@ -1,4 +1,4 @@
-# AVSC project s-hero
+# AVSC project
 
 <h3>About project</h3>
 
