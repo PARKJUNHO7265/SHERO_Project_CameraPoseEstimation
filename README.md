@@ -37,7 +37,7 @@ Also, using the Opencv tool and camera, we designed two vehicles to autonomously
 
 **First, you must prepare the chess board.**
 
-**Second, deflect a chessboard to the camera and execute #1 NewCalib.** 
+**Second, view the chessboard on the sight of camera and execute #1 NewCalib.** 
 
 You can get the calib.npz file from this code which contains information about camera.
 
