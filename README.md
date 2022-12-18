@@ -43,9 +43,13 @@ You can get the calib.npz file from this code which contains information about c
 
 **Next, execute #2 NewPoseEst. And move the chessboard in front of camera.**
 
-It will show you how much the chessboard has tilted and distance from camera.
+You can get the parameters from above such as distance and tiltation between two cars.
 
-With tiltation and distance we can control the movement of cars.
+Using these parameters you can control the RPM of motors.
+
+Based on these parameter values, if it exceeds or falls short to a certain value, 
+
+it is designed to change the motor rotation speed of Arduino by sending a signal through a Wi-Fi signal.
 
 <h3>Presentation and testing Videos</h3>
 
